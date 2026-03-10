@@ -28,4 +28,4 @@ Obviously, for now, the programme cannot guess the game for which the mod will b
 
 ## Known errors
 
-None at the moment
+None at the moment.
