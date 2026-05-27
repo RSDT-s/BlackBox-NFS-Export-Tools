@@ -1,32 +1,4 @@
 # BlackBox-NFS-Export-Tools
-Una colección de herramientas que facilitan el proceso de conversión en los juegos BlackBox NFS.
-
-## Auto CFG
-
-Auto CFG es un programa que genera el configuration file para un mod de NFS de forma rápida, solo carga tus archivos .obj y .mtl en el programa, ajusta los shaders y el juego, exporta y listo!.
-
-### Como Funciona
-
-Auto CFG extrae los datos de los objetos de tu .obj/.mtl, asi como los materiales y la textura que estos tienen asignado, con todo esto, genera un texto base que puede ser usado como archivo de configuración para crear un mod.
-Obviamente, por ahora el programa no puede adivinar el juego para el que será el mod ni los shaders, debe hacerse manualmente (desde el propio programa se realiza mas rapido).
-
-## Errores conocidos
-
-Ninguno por ahora.
-
-## Texture Manager
-
-Texture Manager es una herramienta que convierte en masa todas las texturas que use tu coche de NFS a DDS DXTC1/DXTC3, además, permite reescalar a la resolución deseada en masa igualmente.
-
-## Como Funciona
-
-Solo debes ajustar cada parametro que Texture Manager exija y luego excoger una carpeta destino, la aplicación hace todo lo demas.
-
-## Errores conocidos
-
-Nada hasta ahora.
-
-# BlackBox-NFS-Export-Tools
 A collection of tools that facilitate the conversion process in BlackBox NFS games.
 
 ## Auto CFG
