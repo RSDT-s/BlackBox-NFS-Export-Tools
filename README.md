@@ -7,7 +7,7 @@ UCCT streamlines the entire conversion process by automatically generating the c
 
 ### How it works
 
-Explaining how it works would be a real struggle for me to explain and for you to understand, so once it’s finished I’ll make the code open source. If you use it, please remember to give me credit :3
+Explaining how it works would be a real struggle for me to explain and for you to understand, so once it’s finished I’ll make the code open source for advanced users, for normal users im preparing a detailed documentation, if you use it, please remember to give me credit :3
 
 ## Known errors
 
